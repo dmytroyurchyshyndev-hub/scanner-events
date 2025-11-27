@@ -1,0 +1,8 @@
+litestar==2.17.0
+sqlalchemy==2.0.43
+alembic==1.16.5
+asyncpg==0.30.0
+uvicorn==0.35.0
+advanced_alchemy==1.6.2
+tenacity==9.1.2
+web3==7.13.0
